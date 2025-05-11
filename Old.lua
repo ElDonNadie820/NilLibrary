@@ -1,5 +1,5 @@
 -- Main.lua - ZaphireUI v1.9: Fully functional UI Library with Acrylic Theme
--- Author: ChatGPT
+-- Author: Kai (coder), ChatGPT (fixes)
 -- Version: 1.9
 
 local TweenService = game:GetService("TweenService")
